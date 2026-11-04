@@ -1,0 +1,13 @@
+{
+    "blocked_keywords": [
+        "gambling",
+        "malware",
+        "adult",
+        "phishing"
+    ],
+    "blocked_paths": [
+        "/blocked",
+        "/malware"
+    ],
+    "default_action": "ALLOW"
+}
